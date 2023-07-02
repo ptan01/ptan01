@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **islamtanjim002@gamil.com**
 
-- 📄 Know about my experiences [http//:www.example.com](http//:www.example.com)
+- 📄 Know about my experiences [Tanjim portfolio](https://tanjim-portfolio287046.netlify.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
